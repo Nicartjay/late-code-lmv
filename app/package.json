@@ -1,0 +1,23 @@
+{
+  "name": "late-night-code-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "render": "bun scripts/render.ts"
+  },
+  "dependencies": {
+    "three": "latest",
+    "troika-three-text": "latest"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/three": "latest",
+    "playwright-core": "latest",
+    "typescript": "^5.9.0",
+    "vite": "latest"
+  }
+}

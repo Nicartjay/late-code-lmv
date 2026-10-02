@@ -1,0 +1,87 @@
+{
+ "DelaGothicOne": {
+  "kb": 849,
+  "glyphs": 3840,
+  "lyric_missing": ""
+ },
+ "NotoSansJP-Black": {
+  "kb": 1392,
+  "glyphs": 5239,
+  "lyric_missing": ""
+ },
+ "NotoSansJP-Bold": {
+  "kb": 1393,
+  "glyphs": 5239,
+  "lyric_missing": ""
+ },
+ "NotoSansJP-Regular": {
+  "kb": 1392,
+  "glyphs": 5239,
+  "lyric_missing": ""
+ },
+ "NotoSansJP-Light": {
+  "kb": 1393,
+  "glyphs": 5239,
+  "lyric_missing": ""
+ },
+ "NotoSerifJP-Black": {
+  "kb": 1950,
+  "glyphs": 5239,
+  "lyric_missing": ""
+ },
+ "NotoSerifJP-Medium": {
+  "kb": 1951,
+  "glyphs": 5239,
+  "lyric_missing": ""
+ },
+ "DotGothic16": {
+  "kb": 955,
+  "glyphs": 5415,
+  "lyric_missing": ""
+ },
+ "MPLUS1Code-Bold": {
+  "kb": 870,
+  "glyphs": 3785,
+  "lyric_missing": "？"
+ },
+ "MPLUS1Code-Regular": {
+  "kb": 861,
+  "glyphs": 3783,
+  "lyric_missing": "？"
+ },
+ "JetBrainsMono-ExtraBold": {
+  "kb": 65,
+  "glyphs": 610,
+  "lyric_missing": "、。「」あいうえかがきぎくけこさしじすずせただっつてでとどなにのはひまみむめもゃやよらりるれろわをんァイオカキクグケコスセソタットドバパビピフブプポマミメモュラリルロンー一世人仕体何光入冷出分切前功動取同呪問喧嘲回場変外夜宮少屋底思成所指数文日明根様止正残気泳流海液照画界疲癪眩知神私窓笑答紫終緑考自色苦英落葉行街裏解言詰語負走越載迎迷通遠部開限震青面音頼顔騒？"
+ },
+ "JetBrainsMono-Regular": {
+  "kb": 65,
+  "glyphs": 610,
+  "lyric_missing": "、。「」あいうえかがきぎくけこさしじすずせただっつてでとどなにのはひまみむめもゃやよらりるれろわをんァイオカキクグケコスセソタットドバパビピフブプポマミメモュラリルロンー一世人仕体何光入冷出分切前功動取同呪問喧嘲回場変外夜宮少屋底思成所指数文日明根様止正残気泳流海液照画界疲癪眩知神私窓笑答紫終緑考自色苦英落葉行街裏解言詰語負走越載迎迷通遠部開限震青面音頼顔騒？"
+ },
+ "YujiSyuku": {
+  "kb": 4154,
+  "glyphs": 5622,
+  "lyric_missing": ""
+ },
+ "ReggaeOne": {
+  "kb": 1011,
+  "glyphs": 5525,
+  "lyric_missing": ""
+ },
+ "RampartOne": {
+  "kb": 1806,
+  "glyphs": 5426,
+  "lyric_missing": ""
+ },
+ "ZenKakuGothicNew-Black": {
+  "kb": 937,
+  "glyphs": 3847,
+  "lyric_missing": ""
+ },
+ "ShipporiMinchoB1-ExtraBold": {
+  "kb": 3138,
+  "glyphs": 4697,
+  "lyric_missing": ""
+ }
+}
